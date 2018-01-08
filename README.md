@@ -1,2 +1,2 @@
 # first-challenge-git
-# First Branch Andrew Budi Kusuma
+# Motivasi untuk gaji GEDE
