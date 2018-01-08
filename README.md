@@ -1,4 +1,5 @@
 # first-challenge-git
+<<<<<<< HEAD
 Pokemon Generasi 1
 1. bulbasaur
 2. ivysaur
@@ -19,3 +20,6 @@ Pokemon Generasi 1
 17. arbok
 25. pikacu
 151. mew
+=======
+Motivasi saya dalam mengikuti kegiatan Bootcamp adalah untuk menjadi developer dan membangun start-up sendiri di kedepan hari.
+>>>>>>> 4f64cd6f6e984f82d8190549a2ca42f759c9eb14
