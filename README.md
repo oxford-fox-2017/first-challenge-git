@@ -1,1 +1,2 @@
-# first-challenge-git
+# first-chall
+menjadi software developer
